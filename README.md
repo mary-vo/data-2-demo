@@ -16,5 +16,5 @@
 </ol>
 
 <br>
-<br>
+<h3>How to run</h3>
 Open the notebook in the week folder and click the colab link at the top of the page. Once you have opened the note book save a copy into your google drive. 
