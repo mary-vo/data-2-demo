@@ -8,9 +8,8 @@
 <li>Reintroduction to Pandas </li>
 <li>Challenges students to read in 2 data sets and manipulate the data. </li>
 </ul>
-<li>
-<ul>
 <li>Introduction to SQL </li>
+<ul>
 <li>We read in the data from week one and challenges. Using pandas SQL function we have  students to do some basic queries. </li>
 </ul>
 </li>
